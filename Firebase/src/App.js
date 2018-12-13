@@ -20,7 +20,7 @@ componentWillMount() {
   render() {
     return (
       <View>
-        <Header headerText="Authentication" />
+        <Header headerText="Firebase Authentication!!" />
         <LoginForm />
       </View>
     );
